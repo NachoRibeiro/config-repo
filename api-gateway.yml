@@ -15,7 +15,7 @@ spring:
       enabled: true
 
   main:
-    web-application-type: reactive
+    web-application-type: servlet
 
 eureka:
   client:
